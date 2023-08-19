@@ -1,0 +1,6 @@
+{
+  "values": [
+    "ctf:generators/scoreboards",
+    "ctf:generators/teams"
+  ]
+}

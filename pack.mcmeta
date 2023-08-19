@@ -1,0 +1,14 @@
+{
+  "pack": {
+    "pack_format": 15,
+    "description": {
+      "text": "", "bold": true, "color": "gray",
+      "extra": [
+        { "text": "A competitive game ", "bold": false },
+        { "text": "Capture", "color": "blue" },
+        { "text": "The", "color": "white" },
+        { "text": "Flag", "color": "red" }
+      ]
+    }
+  }
+}

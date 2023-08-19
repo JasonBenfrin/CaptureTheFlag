@@ -1,0 +1,7 @@
+{
+  "values": [
+    "ctf:welcome/main",
+    "ctf:flag/tp/main",
+    "ctf:flag/click/main"
+  ]
+}

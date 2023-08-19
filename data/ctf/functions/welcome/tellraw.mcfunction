@@ -1,0 +1,3 @@
+tellraw @s { "text": "§6Welcome to §9§lCapture§f§lThe§c§lFlag §r", "extra": [{ "selector": "@s", "color": "gold" }, { "text": "§6!§r\n"}] }
+tellraw @s { "text": "§9§nGet a Guide Book§r", "clickEvent": { "action": "run_command", "value": "/loot give @s loot ctf:guide" }, "hoverEvent": { "action": "show_item", "contents": { "id": "written_book", "tag": "{title: \"§5§lGuide Book§r\" }" } } }
+scoreboard players set @s firstLogin 1

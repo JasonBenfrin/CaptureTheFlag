@@ -1,0 +1,29 @@
+{
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:written_book",
+          "functions": [
+            {
+              "function": "minecraft:set_name",
+              "name": "§5§lGuide Book"
+            },
+            {
+              "function": "minecraft:set_lore",
+              "lore": [
+                "§7A guide book for §9§lCapture§f§lThe§c§lFlag"
+              ]
+            },
+            {
+              "function": "minecraft:set_nbt",
+              "tag": "{}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
