@@ -2,6 +2,7 @@
   "values": [
     "ctf:welcome/main",
     "ctf:flag/tp/main",
+    "ctf:flag/death/main",
     "ctf:flag/click/main"
   ]
 }
